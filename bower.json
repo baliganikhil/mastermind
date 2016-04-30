@@ -1,0 +1,21 @@
+{
+  "name": "mastermind",
+  "main": "mastermind.js",
+  "authors": [
+    "Nikhil Baliga <baliganikhil@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "jqueryui#^1.11.4"
+  }
+}
